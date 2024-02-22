@@ -3,9 +3,11 @@ Mods for the game Lethal Company (LC)
 
 # Current Ideas
 1. Infinite Sprint
-2. Toy Microphone
-3. New Hazards
-4. New Enemies
+   Allow the player to sprint, jump, etc. infinitely without draining their stamina bar
+3. Toy Microphone
+   Create a new scrap that, when equipped, makes the mic audio of the player wielding it to sounds like it is coming out of a toy (echo) microphone
+5. New Hazards
+6. New Enemies
 
 # Current Status
 ## Infinite Sprint
